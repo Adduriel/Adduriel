@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Adduriel
+- 👀 I’m interested in Videogames and IA development
+- 🌱 I’m currently learning in UCSP / Computer Science
+- 💞️ I’m looking to create a videogame
