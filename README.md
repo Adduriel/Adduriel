@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Adduriel
-- 👀 I’m interested in Videogames and IA development
-- 🌱 I’m currently learning in UCSP / Computer Science
-- 💞️ I’m looking to create a videogame
+<h3 align="center">
+  ¡Hola! Bienvenido a mi perfil :D
+  Hi! Welcome to my profile :D
+  <img src=https://media.giphy.com/media/W5TEa73iw1fnSVjjZZ/giphy.gif width="28">
+</h3>
