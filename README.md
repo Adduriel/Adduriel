@@ -7,5 +7,5 @@
 </h3>
 
 <p align="center">
-  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+like+videogames+and+TWICE;Learning+with+patience"></a>
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+like+videogames+and+TWICE;Learning+with+patience;center=True"></a>
 </p>
